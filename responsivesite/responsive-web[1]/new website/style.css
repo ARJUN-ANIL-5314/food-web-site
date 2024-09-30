@@ -1,0 +1,135 @@
+.container-fluid{
+    background-color: rgb(224, 176, 45);
+   height: max-content;
+padding: 20px;}
+.nav-items{
+    margin-left:60px;
+} 
+#navbarSupportedContent{
+    margin-right: 1px;
+    justify-content: right;
+    background-color: rgb(224, 176, 45);
+}
+.novbar .container-fluid{
+    padding-top: 12px;
+}
+.ul li a{
+    padding: 100px;
+}
+#home{
+    font-size: 20px;
+    padding-right: 50px;
+    padding-left: 20px;
+}
+#home:hover{
+    color: brown;
+}
+.d-block{
+    height: 750px;
+    object-fit: cover;
+border-bottom : 8px solid white;    
+}
+#demo{
+    z-index: -2;
+}
+*{
+    margin-top: 0;
+    padding-top: 0; }
+
+body{
+    background-color: rgba(224, 176, 45, 0.415);
+    overflow-x: hidden;
+}
+.text-center{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.blockquote{
+    font-size: 40px;
+}
+.container{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.order{
+    border: 10px solid red;
+    padding: 20px;
+    border-radius: 120px;
+    color:black;
+    background-color: white;
+}
+.col{
+    height: 500px;
+   padding: 40px;
+   padding-bottom: 0;
+}
+.card-title{
+    font-family: sans-serif;
+    font-weight: 700;
+}
+.card-text{
+    font-style: italic;
+}
+.btn{
+    height: 43px;
+}
+.btn:hover{
+    background-color: aqua;
+}
+.text-center{
+    margin-bottom: 0;
+}
+.text-reset{
+    text-decoration: none;
+}
+.text-reset:hover{
+padding-left: 10px;
+background-color:rgba(140, 58, 58, 0.05);
+}
+.img-fluid{
+    height: 300px;
+    margin-left: 10px;
+    margin-top: 45px;
+}
+.line{
+    background-color: red;
+    height: 6px;
+    margin-top: 70px;
+    width: 100%;
+}
+.carousel-text{
+    font-size: 60px;
+    font-family: fantasy;
+    color: snow;
+    text-shadow: 4px 4px 8px black;
+    margin-bottom: 30px;
+}
+.headd{
+    font-style: oblique;
+}
+.d-flex{
+    background-color: rgba(224, 176, 45, 0.13);
+}
+
+.head1{
+    font-size: 100px;
+    text-align: start;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 300px;
+
+
+}
+
+.footer{
+background-color:beige;
+}
+.card{
+border: 4px solid black
+;
+}
+.card:hover{
+    box-shadow: 2px 4px 8px 2px black;
+}
+.dropdown-item{
+    font-weight: bold;
+}
